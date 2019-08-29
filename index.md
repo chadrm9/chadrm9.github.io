@@ -11,7 +11,10 @@ So here we are, fresh jekyll site, updated gems, and a fresh CV for any potentia
 ### Polka
 
 Recently I broke ground on an ongoing project I call [Polka](https://github.com/chadrm9/polka). Polka can retreive and store Spotify user
-data (e.g. track audio features) as NumPy matricies for use with [SciPy](https://scipy.org) and [Project Jupyter](https://jupyter.org).
+data (e.g. track audio features) as NumPy matricies for use with [SciPy](https://scipy.org), [Scikit-learn](https://scikit-learn.org) and
+[Project Jupyter](https://jupyter.org).
+
+Read more [here](https://github.com/chadrm9/polka)
 
 ![Radar Chart](assets/img/20190823_radar.png)
 
